@@ -178,8 +178,7 @@ To create an admin account, register a normal user first, then manually update t
 
 **Affan AK Khan**  
 GitHub: [@affan-ak-khan](https://github.com/affan-ak-khan)  
-LinkedIn: [enayat-ur-rehman](https://www.linkedin.com/in/enayat-ur-rehman-42a7912b4/)  
-Facebook: [Profile](https://www.facebook.com/share/Xpk133JSnt69L943/)
+
 
 ---
 
