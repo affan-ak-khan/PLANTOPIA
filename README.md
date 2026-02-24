@@ -1,4 +1,4 @@
-# 🌿 Viva Store Management System
+# Plant Store Management System
 
 A full-featured **desktop store management application** built with **C# Windows Forms (.NET Framework 4.8)** and **SQL Server LocalDB**. The system supports two roles — **Admin** and **User** — with a modern dark-themed UI powered by Guna UI 2 and Bunifu UI libraries.
 
